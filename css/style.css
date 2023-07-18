@@ -1,0 +1,37 @@
+.bo1{
+    background-image:url(../images/2.jpg) ;
+    background-size: cover;
+    height: 1000px;
+    width: auto;
+    
+}
+.div1{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    color: white;
+    background-color: rgba(148, 57, 45, 0.507);
+    border-radius: 50%;
+}
+a{
+    color:aqua;
+}
+.div2{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    color: white;
+    background-color: rgba(148, 57, 45, 0.507);
+    border-radius: 50%;
+}
+.div3{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    color: white;
+    background-color: rgba(148, 57, 45, 0.507);
+    border-radius: 50%;
+}
+mark{
+    background-color: rgba(183, 195, 248, 0.596);
+}
